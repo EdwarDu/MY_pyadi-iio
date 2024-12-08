@@ -83,6 +83,7 @@ from adi.adpd1080 import adpd1080
 from adi.adrf5720 import adrf5720
 from adi.adrv9002 import adrv9002
 from adi.adrv9009 import adrv9009
+from adi.adrv9009_dual import adrv9009_dual
 from adi.adrv9009_zu11eg import adrv9009_zu11eg
 from adi.adrv9009_zu11eg_fmcomms8 import adrv9009_zu11eg_fmcomms8
 from adi.adrv9009_zu11eg_multi import adrv9009_zu11eg_multi
